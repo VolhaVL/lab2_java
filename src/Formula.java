@@ -22,7 +22,6 @@ public class Formula extends JFrame {
     Double resultat = 0.0;
     Double sum = 0.0;
 
-    // классы для расчетных формул
     public Double formula1(Double x, Double y, Double z) {
         return Math.pow(Math.log(Math.pow((1+x), 2)) + Math.cos(Math.PI*z*z*z), Math.sin(y)) + Math.pow(Math.pow(Math.E, x*x) + Math.cos(Math.pow(Math.E, z)) + Math.sqrt(1/y), 1/x);
     }
