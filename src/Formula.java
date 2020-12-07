@@ -1,3 +1,4 @@
+//лаб2 вариант 5а
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
